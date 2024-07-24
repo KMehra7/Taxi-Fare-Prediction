@@ -1,0 +1,28 @@
+.pac-container {
+    z-index: 10000 !important;
+    position: fixed;
+    top: 40px !important;
+    left: 0;
+    right: 0;
+  }
+  
+  .pac-item {
+    padding: 5px 0 5px 15px;
+    cursor: pointer;
+  }
+  
+  .pac-item:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .pac-item-selected,
+  .pac-item-selected:hover {
+    background-color: #e5e5e5;
+  }
+  
+  
+  
+  
+  
+  
+  
